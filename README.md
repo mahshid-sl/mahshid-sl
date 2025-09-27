@@ -2,7 +2,7 @@
 
 💻 **Frontend Developer** | Focused on **React** & **TypeScript**  
 🌱 Currently learning: **Next.js** & advanced **TypeScript**  
-🚀 Built projects: [Online Bookstore](book-store-livid-mu.vercel.app) • [Realtime Chat App](#)
+🚀 Built projects: [Online Bookstore](https://book-store-livid-mu.vercel.app/) • [Realtime Chat App](#)
 
 ---
 
