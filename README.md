@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats
 
 
-![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?mahshid-sl=YourUsername&show_icons=true&theme=tokyonight)  
+![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahshid-sl&show_icons=true&theme=tokyonight) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahshid-sl&layout=compact&theme=tokyonight)
 
