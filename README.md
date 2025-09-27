@@ -2,7 +2,7 @@
 
 💻 **Frontend Developer** | Focused on **React** & **TypeScript**  
 🌱 Currently learning: **Next.js** & advanced **TypeScript**  
-🚀 Built projects: [Online Bookstore](#) • [Realtime Chat App](#)
+🚀 Built projects: [Online Bookstore](book-store-livid-mu.vercel.app) • [Realtime Chat App](#)
 
 ---
 
@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats
 
 
-![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahshid-sl&show_icons=true&theme=tokyonight) 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahshid-sl&layout=compact&theme=tokyonight)
 
