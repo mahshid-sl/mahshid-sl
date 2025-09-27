@@ -33,5 +33,5 @@
 
 ## 📫 Get in Touch
 - 📧 Email: mahshiid.soleiman@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahshid-soleiman)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/mahshid-soleiman]  
 
